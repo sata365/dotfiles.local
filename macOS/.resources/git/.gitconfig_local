@@ -1,3 +1,5 @@
 [user]
 	name = sata365
 	email = 9369075+sata365@users.noreply.github.com
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBKtc52ZGIIHR+DCQGLaeaK1mKaZOA7l+3sUetjfcUVj
+
